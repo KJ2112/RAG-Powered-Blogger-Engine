@@ -1,0 +1,11 @@
+requests
+bs4
+nltk
+langdetect
+serper-api
+tqdm
+python-dotenv
+rank_bm25
+# for embedding+FAISS
+sentence-transformers
+faiss-cpu
